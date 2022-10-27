@@ -1,0 +1,10 @@
+[
+  {
+      "property": "labelData",
+      "direction": "receive"
+  },
+  {
+      "property": "valueData",
+      "direction": "receive"
+  }
+]

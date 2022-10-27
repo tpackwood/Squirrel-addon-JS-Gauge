@@ -1,0 +1,30 @@
+[
+  {
+      "type": "Accordion",
+      "properties": {
+          "name": "General",
+          "collapsed": false
+      },
+      "children": [
+          {
+              "type": "InputBox",
+              "properties": {
+                  "labelName": "Labels:",
+                  "allowBinding": true,
+                  "allowManualEntry": false,
+                  "bindingPropertyName": "labelData"
+              }
+          },
+          {
+              "type": "InputBox",
+              "properties": {
+                  "labelName": "Values:",
+                  "allowBinding": true,
+                  "allowManualEntry": false,
+                  "bindingPropertyName": "valueData"
+              }
+          }
+
+      ]
+  }
+]
